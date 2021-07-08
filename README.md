@@ -37,7 +37,7 @@ This allowed me to learn the following:
 ### Wishlist: 
 - 🌱 Learn TypeScript & React Native
 
-## How to contact me? 
+## Want to contact me? 
 
 📬 Send me an email: sotelosergion@gmail.com,
 and connect with me on [Linkedin](https://www.linkedin.com/in/sergio-sotelo/)!
